@@ -5,7 +5,7 @@
 - 📫 To get in touch, my email is felype.reinaldo@hotmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun Facts: Seek professional and personal knowledge and improvement all the time.
-
+----------------------------------------------------------------------------------------------------------------------
 - 👋 Oi, eu sou o @felypereinaldo
 - 👀 Me interesso por tecnologia, esportes e diversão.
 - 🌱 Atualmente estou aprendendo e cursando analise de desenvolvimento de sistemas ADS.
